@@ -4,6 +4,8 @@ comes pre-installed with the TUI applications:
 tuios
 sway
 lazy-git
+lazyssh
 wiremix
 bletui
+impala
 bookorat
