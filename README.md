@@ -5,6 +5,7 @@ comes pre-installed with the TUI applications:
 tuios,
 sway,
 btop,
+yazi,
 lazy-git,
 gh-dash,
 lazyssh,
