@@ -2,7 +2,7 @@
 
 IMPORTANT! Angelic-OS is a work in progress and is not yet ready for daily use!
 
-A text based Arch Linux distro made for the raspberry Pi 5. For the times when having a GUI is just too much or when you want to look cool.Built with few pre installed apps 
+A text based Arch Linux distro made for the raspberry Pi 5. For the times when having a GUI is just too much or when you want to look cool. 
 comes pre-installed with the TUI applications:
 
 sway,
@@ -18,6 +18,7 @@ lynx browser,
 
 keybinds:
 
+super + K = keybinding guide 
 super + return = open terminal window,
 super + W = close window,
 super + shift + b = lynx browser, 
