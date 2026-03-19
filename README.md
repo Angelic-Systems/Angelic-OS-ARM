@@ -17,5 +17,5 @@ lynx browser,
 keybinds:
 
 super + return = open terminal window,
-super + W = close window 
-super + shift + b = lynx browser 
+super + W = close window,
+super + shift + b = lynx browser, 
