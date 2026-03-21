@@ -2,7 +2,7 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
   "logo": {
     "type": "file",
-    "source": "~/.config/omarchy/branding/about.txt",
+    "source": "~/.config/angelic/branding/about.txt",
     "color": { "1": "green" },
     "padding": {
       "top": 2,
@@ -66,19 +66,19 @@
       "type": "command",
       "key": "\ue900 OS",
       "keyColor": "blue",
-      "text": "version=$(omarchy-version); echo \"Omarchy $version\""
+      "text": "version=$(angelic-version); echo \"Angelic-OS $version\""
     },
     {
       "type": "command",
       "key": "│ ├󰘬",
       "keyColor": "blue",
-      "text": "branch=$(omarchy-version-branch); echo \"$branch\""
+      "text": "branch=$(angelic-version-branch); echo \"$branch\""
     },
     {
       "type": "command",
       "key": "│ ├󰔫",
       "keyColor": "blue",
-      "text": "channel=$(omarchy-version-channel); echo \"$channel\""
+      "text": "channel=$(angelic-version-channel); echo \"$channel\""
     },
     {
       "type": "kernel",
@@ -144,7 +144,7 @@
       "type": "command",
       "key": " Update",
       "keyColor": "magenta",
-      "text": "updated=$(omarchy-version-pkgs); echo \"$updated\""
+      "text": "updated=$(angelic-version-pkgs); echo \"$updated\""
     },
     {
       "type": "custom",
