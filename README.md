@@ -8,6 +8,7 @@ comes pre-installed with the following applications:
 
 sway,
 waybar,
+ghostty,
 btop,
 yazi,
 gh-dash,
