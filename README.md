@@ -8,6 +8,7 @@ comes pre-installed with the following applications:
 
 TUIOS,
 sway,
+neovim,
 waybar,
 ghostty,
 btop,
