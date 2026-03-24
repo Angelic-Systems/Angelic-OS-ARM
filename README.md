@@ -9,6 +9,7 @@ comes pre-installed with the following applications:
 TUIOS,
 sway,
 neovim,
+nano,
 waybar,
 ghostty,
 btop,
