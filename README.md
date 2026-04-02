@@ -14,11 +14,9 @@ waybar,
 kitty,
 btop,
 yazi,
-lazygit,
 wiremix,
 bluetui,
 impala,
-lynx browser,
 
 keybinds:
 
